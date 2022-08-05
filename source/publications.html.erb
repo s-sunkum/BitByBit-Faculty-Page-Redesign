@@ -1,0 +1,37 @@
+---
+title: Publications
+---
+
+<!-- Publications -->
+<div class = "publications">
+
+<!-- Book1 -->
+<h2>Book 1</h2>
+<ul>
+	<% data.publications.table.firstbook.each do |element| %>
+		<li>
+			<%= element %>
+		</li>
+	<% end %>
+</ul>
+
+<!-- Book2 -->
+<h2>Book 2</h2>
+<ul>
+	<% data.publications.table.secondbook.each do |element| %>
+		<li>
+			<%= element %>
+		</li>
+	<% end %>
+</ul>
+
+<!-- Link to publications -->
+<h2>Other Books/Papers</h2>
+<ul>
+	<% data.publications.table.publications.each do |element| %>
+		<li>
+			<%= element %>
+		</li>
+	<% end %>
+</ul>
+</div>

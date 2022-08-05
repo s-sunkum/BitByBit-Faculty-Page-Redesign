@@ -1,0 +1,104 @@
+table:
+  title:
+    - I belong to <a href="https://cse.osu.edu/directory/categories/research_area/theory--algorithms">Theory</a>, <a href="https://cse.osu.edu/directory/categories/research_area/computer-graphics">Graphics</a>, and
+    - <a href="https://research.math.osu.edu/tgda/">TGDA</a> (topology, geometry, data analysis) groups at OSU
+
+
+
+  current:
+    - <a href="http://www.cse.ohio-state.edu/%7Esunjia"> </a>Jiayuan Wang, PhD<br />
+    - Tianqi Li, PhD<br />
+    - <a href="http://web.cse.ohio-state.edu/%7Emandal.25/"> Sayan Mandal</a>, PhD<br />
+    - Cheng Xin, PhD<br />
+    - <a href="http://web.cse.ohio-state.edu/%7Eslechta.3/">Ryan Slechta</a>, PhD<br />
+    - Tao Hou, PhD<br />
+    - Soham Mukherjee, PhD<br />
+    - <br />
+    - <a href="http://www.cse.ohio-state.edu/%7Emolnar"> </a>
+
+  past:
+    - Alfred Rossi, post-doc<br />
+    - Mickael Buchet, post-doc, currently at Tohoku Univ., Japan<br />
+    - <a href="http://www.cs.sfu.ca/%7Erhdyer/personal/">Ramsay Dyer</a>, post-doc, currently at INRIA,France<br />
+    - Hyuckje Woo, Post-doc, Prof. KINST, Korea<br />
+    - <a href="http://www.mpi-inf.mpg.de/%7Ejgiesen"> Joachim Giesen</a>, Post-doc, Prof. U. Jena, Germany<br />
+    - Dayu Shi, Phd, Google<br />
+    - <a href="http://web.cse.ohio-state.edu/%7Ewangle/">Lei Wang</a>, Phd, Google<br />
+    - <a href="http://web.cse.ohio-state.edu/%7Eslatton/">Andrew Slatton</a>, Phd<br />
+    - Fengtao Fan, Phd, Google<br />
+    - <a href="http://www.cse.ohio-state.edu/%7Ebusaryev">Oleksiy Busaryev</a>, PhD, Google <br />
+    - <a href="http://staff.cse.tamu.edu/kuiyu/">Kuiyu Li</a>, PhD, post-doc at Texas A&amp;M<br />
+    - Pawas Ranjan, PhD<br />
+    - <a href="https://jalevine.bitbucket.io/">Joshua Levine</a>, PhD, post-doc at U. Utah, Prof.&nbsp;U. of Arizona<br />
+    - <a href="http://www.cse.ohio-state.edu/%7Esunjia">Jian Sun</a>, PhD, post-doc at Stanford and Princeton, Prof. Tsinghua U., China<br />
+    - <a href="http://www.cse.ohio-state.edu/%7Erayt">Tathagata Ray</a>, PhD, Prof. BITS, Pilani,India<br />
+    - <a href="http://www.ices.utexas.edu/%7Esamrat"> Samrat Goswami</a>, PhD, post-doc at UT-Austin<br />
+    - Wulue Zhao, PhD
+    - <br />
+    - James Hudson, PhD, Prof. at Swansee U. <br />
+    - Naveen Leekha, Masters, NVIDA<br />
+    - Luke Molnar, Masters<br />
+
+  reconstruction:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/curverecon.htm">Curve reconstruction</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/surfrecon.htm">Surface reconstruction <br /> </a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/SingularCocone/singularcocone.html">Non-smooth, non-manifold surface reconstruction</a><br />
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/isotopic.html">Boundary reconstruction</a><br />
+
+  meshing:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/mesh-volume.html">Polyhedra</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/mesh-smooth.html">Smooth surface</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/mesh-smooth.html">Remeshing</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/mesh-iso.htm">Isosurface</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/mesh-psc.html">Piecewise smooth complexes</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/LocDel.html">Localized Delaunay refinement</a><br />
+
+  homo:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/handle/hantun.html">Handle and tunnel loops</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/homology.html">Shortest homology bassis</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/homology.html">Optimal homologous cycles</a>
+
+  shape:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/medialaxis.htm">Medial axis</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/cskel.html">Curve skeletons </a><br />
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/dimensiondetection.htm">Dimension detection</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/segmentation.html">Shape segmentation and matching</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/normfet.html">Normal and feature approximation</a>
+
+  reconstruction3:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/cocone.html">Cocone</a>':' Software for surface reconstruction based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/undsamp/paper.pdf.gz">paper.</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/amls.html">AMLS</a> software for noisy point cloud smoothing based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/amls/amls-extend.pdf">paper</a>. <br />
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/SingularCocone/singularcocone.html">SingularCocone</a> software for reconstructing surfaces with singular features<br />
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/Peel.html">Peel</a> software for reconstructing surfaces with boundaries based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/recon-bound/boundary.pdf">paper</a><br />
+
+  meshing3:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/delpsc.html">DelPSC</a>':' software for Delaunay meshing of surfaces, volumes, complexes based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/delpsc/imr07.pdf">paper</a>,
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/delpsc/delpsc.ppt">talk slides</a>, [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/delpsc/video">video</a>]
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/locpsc.html">LocPSC</a>':' Localized version of DelPSC, runs faster. based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/locpsc/locpsc.pdf">paper</a>.<br />    
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/qualmesh.html">Qualmesh</a>':' Software for quality Delaunay meshing of polyhedra based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/qualmesh/qualmesh.pdf">paper</a>.
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/surfremesh.html">SurfRemesh</a>':' software for Delaunay meshing of polygonal surfaces based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/remesh/remesh.pdf">paper</a>.
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/deliso.html">DelIso</a>'::' software for Delaunay meshing of isosurfaces
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/locdel-soft.html">LocDel</a> software for generating large Delaunay meshes<br />
+    
+  homo3:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/hantun.html">HanTun </a>software for computing handle and tunnel loops on surfaces based on
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/hantun-persist/hantun.pdf">paper</a> [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/hantun-persist/hantun-sig2008.mov">video</a>]
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/handle/ReebHanTun-download/reebhantun.html">ReebHanTun </a>software for handle and tunnel loops that does not require 3D tessellation,
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/reeb-hantun/reeb-hantun.pdf">paper</a>, <a href="http://www.cse.ohio-state.edu/%7Etamaldey/handle/hantun.html">web-page</a><br />
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/shortloop.html">ShortLoop</a>
+    - software for computing loops in a shortest homology basis based on
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/pcdloop/pcdloop.pdf">paper</a>.
+    - <a href="http://web.cse.ohio-state.edu/%7Edey.8/PersLoop/">PersLoop</a> software for persistent &nbsp;1-cycles
+
+  data3:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/GIC/GICsoftware">GIC software</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/SimPers/Simpers.html">SimpPers software</a> (computes persistence for simplicial maps)
+    - <a href="http://web.cse.ohio-state.edu/%7Etamaldey/SimBa/Simba.html">SimBa software</a> (computes persistence of Rips filtration efficiently)<br />
+
+  shape3:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/cocone.html">Medial</a>':' Software for 3D medial axis based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/medial/medial-ex.pdf">paper</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/segmatch.html">SegMatch</a>':' Software for shape segmentation and shape matching based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/matching/feature.pdf">paper</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/normfet.html">NormFet</a> software for normal and feature size estimation from point cloud based on
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/norfet/paper.pdf">paper</a>.&nbsp;
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/cskel.html">CurveSkel</a> software for curve skeleton of 3D shapes based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/curve-skeleton/cskel.pdf">paper</a>.
+

@@ -1,0 +1,14 @@
+table:
+  firstbook:
+    - <b> Curve and Surface Reconstruction:Algorithms with Mathematical Analysis </b>
+    - Written by Tamal K. Dey
+    - Published by <b> Cambridge University Press </b> , October 2006
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/book/recon/preface.pdf">Preface and Contents</a>
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/book/recon/chapter3and4.pdf">Two Chapters</a>
+  secondbook:
+    - <b> Delaunay Mesh </b>
+    - Written by Siu-Wing Cheng, Tamal K. Dey, Jonathan R. Shewchuk
+    - Published by <b> CRC Press </b> , December 2012
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/meshbook.html"><span style="text-decoration:underline;">See details including sample chapters</span></a>
+  publications:
+    - For more book chapters and papers, visit <a href="https://www.cs.purdue.edu/homes/tamaldey/papers.html"> publications&nbsp;</a>

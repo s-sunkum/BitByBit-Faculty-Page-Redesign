@@ -1,0 +1,293 @@
+---
+title: Research
+---
+
+
+    <%# Research title part%>
+    <div id="top-title">
+        <% data.research.table.title.each do |element| %>                   
+            <%= element.to_s %>
+        <% end %>
+        <br>
+    </div>
+
+        
+
+    <%# Subtitle 1: personnel part(PhD students) %>
+    <h2 class = "title-text">Personnel</h2> 
+    
+    <ul>
+        <%# Current student part %>
+        <table >
+            <tr>
+                <td>
+                    <li>
+                        Current
+                    </li>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <table >
+                        <tr>
+                            <td>
+                                <% data.research.table.current.each do |element| %>                   
+                                    <%= element.to_s %>
+                                <% end %>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+                    
+
+            <tr>
+                <td>
+                    <br>
+                </td>
+            </tr>
+            
+            <%# Past student part %>
+            <tr>
+                <td>
+                    <li>
+                        Past
+                    </li>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <table >
+                        <tr>
+                            <td>
+                                <% data.research.table.past.each do |element| %>                   
+                                    <%= element.to_s %>
+                                <% end %>
+                            </td>
+                            
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+    </ul>
+        
+
+    <%# Subtitle 2: Projects part %>
+    <h2 class = "title-text">Projects</h2>
+    
+
+    <table > 
+        <tr>
+            <td>
+                <ul>
+                    <li>
+                        <a href="http://www.cse.ohio-state.edu/%7Etamaldey/geohome.html">Computational Geometry and Topology in Geometric Modeling and Graphics</a>
+                    </li>
+                </ul>
+                <br/>
+
+                <ul>
+                    <ul>
+                        <li>
+                            Reconstruction
+                            <br>
+                            <ul>
+                                <%# Go through reconstruction part %>
+                                <% data.research.table.reconstruction.each do |element| %> 
+                                    <li>
+                                        <%= element.to_s %>
+                                    </li>
+                                <% end %>
+
+                            </ul>
+                        </li>
+                    </ul>
+
+                    <ul>
+                        <li>
+                            <a href="http://www.cse.ohio-state.edu/%7Etamaldey/mesh.html">Meshing</a>
+                            <ul>
+                                <%# Go through meshing part %>
+                                <% data.research.table.meshing.each do |element| %> 
+                                    <li>
+                                        <%= element.to_s %>
+                                    </li>
+                                <% end %>
+
+                            </ul>
+                            <br>
+                        </li>
+                    </ul>
+
+                    <ul>
+                        <li>
+                            Homology features
+                            <ul>
+                                <%# Go through Homology features part %>
+                                <% data.research.table.homo.each do |element| %> 
+                                    <li>
+                                        <%= element.to_s %>
+                                    </li>
+                                <% end %>
+
+                            </ul>
+                            <br>
+                        </li>
+                    </ul>
+
+                    <ul>
+                        <li>
+                            Shape features
+                            <ul>
+                                <%# Go through shape features part %>
+                                <% data.research.table.shape.each do |element| %> 
+                                    <li>
+                                        <%= element.to_s %>
+                                    </li>
+                                <% end %>
+
+                            </ul>
+                            <br>
+                        </li>
+                    </ul>
+
+                    <ul>
+                        <li>
+                            Data sparsification
+                            <ul>                                        
+                                <li>
+                                    <a href="http://www.cse.ohio-state.edu/%7Etamaldey/GIC/gic.html">Graph Induced complex</a><br />
+                                </li>
+                                
+                            </ul>
+                            <br>
+                        </li>
+                    </ul>
+
+                    <ul>
+                        <li>
+                            <a href="http://www.cse.ohio-state.edu/%7Etamaldey/decim.htm">Simplification</a>   
+                        </li>
+                    </ul>
+
+
+                </ul>
+
+                <ul>
+                    <li>
+                        <a href="http://www.cse.ohio-state.edu/%7Etamaldey/geometry-papers.htm">Computational and combinatorial geometry</a>   
+                    </li>
+                </ul>
+
+                <ul>
+                    <li>
+                        <a href="http://www.cse.ohio-state.edu/%7Etamaldey/topology-papers.htm">Computational topology</a> 
+                        (
+                        <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/topowork/paper.ps.gz">NSF report)</a>  
+                    </li>
+                </ul>
+
+
+            </td>
+        </tr>
+    </table>
+        
+
+    <%# Subtitle 3: Software part %>
+    <h2 class = "title-text">Software</h2>
+
+
+    <table >
+        <tr>
+            <td>
+                <ul>
+                    <li>
+                        Reconstruction
+                    </li>
+                    <ul>
+                        <%# Go through reconstruction part %>
+                        <% data.research.table.reconstruction3.each do |element| %> 
+                            <li>
+                                <%= element.to_s %>
+                            </li>
+                        <% end %>
+                    </ul>
+                </ul>
+
+                <ul>
+                    <li>
+                        Meshing
+                    </li>
+                    <ul>
+                        <%# Go through meshing part %>
+                        <% data.research.table.meshing3.each do |element| %> 
+                            <li>
+                                <%= element.to_s %>
+                            </li>
+                        <% end %>
+                    </ul>
+                </ul>
+
+                <ul>
+                    <li>
+                        Homology Features
+                    </li>
+                    <ul>
+                        <%# Go through homology features part %>
+                        <% data.research.table.homo3.each do |element| %> 
+                            <li>
+                                <%= element.to_s %>
+                            </li>
+                        <% end %>
+                    </ul>
+                </ul>
+
+                <ul>
+                    <li>
+                        Data Sparsification
+                    </li>
+                    <ul>
+                        <%# Go through data sparsification part %>
+                        <% data.research.table.data3.each do |element| %> 
+                            <li>
+                                <%= element.to_s %>
+                            </li>
+                        <% end %>
+                    </ul>
+                </ul>
+
+                <ul>
+                    <li>
+                        Shape features
+                    </li>
+                    <ul>
+                        <%# Go through shape features part %>
+                        <% data.research.table.shape3.each do |element| %> 
+                            <li>
+                                <%= element.to_s %>
+                            </li>
+                        <% end %>
+                    </ul>
+                </ul>
+
+                <ul>
+                    <li>
+                        <a href="http://www.cse.ohio-state.edu/graphics/research/CurveRecon/gathan.tar">Gathan software for curve reconstruction </a>based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/sharp/paper.ps.gz">paper.</a>
+                    </li>
+                </ul>
+
+                <ul>
+                    <li>
+                        <a href="http://www.cse.ohio-state.edu/%7Etamaldey/Crust/">Nearest neighbor curve reconstruction Applet</a> based on <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/curve/paper.ps.gz">paper</a> and a topology clean up.
+                    </li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+        
+    
+    

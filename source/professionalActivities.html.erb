@@ -1,0 +1,45 @@
+---
+title: Professional Activities
+---
+
+<div class = "activities">
+<!-- Iterating through the first column of professional activities -->
+<h2>Program Committee Member</h2>
+<ul>
+    <% data.professionalActivities.table.firstcolumn.each do |element| %>
+        <li>
+            <%= element %>
+        </li>
+    <% end %>
+</ul>
+
+<!-- Iterating through the second column of professional activities -->
+<h2>Invited Talks</h2>
+<ul>
+    <% data.professionalActivities.table.secondcolumn.each do |element| %>
+        <li>
+            <%= element %>
+        </li>
+    <% end %>
+</ul>
+
+<!-- Iterating through the third column of professional activities -->
+<h2>Other Activities</h2>
+<ul>
+    <li>
+        <%= link_to 'Co-Chair, SoCG 2012' , 'http://socg2012.web.unc.edu/' %>
+    </li>
+    <% data.professionalActivities.table.thirdcolumn.each do |element| %>
+        <li>
+            <%= element[0] %>
+        </li>
+        <ul>
+            <% element[1].each do |sub| %>
+                <li>
+                    <%= sub %>
+                </li>
+            <% end %>
+        </ul>
+    <% end %>
+</ul>
+</div>

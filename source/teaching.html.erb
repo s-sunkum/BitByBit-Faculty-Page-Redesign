@@ -1,0 +1,27 @@
+---
+title: Teaching
+---
+
+<!-- Teaching section -->
+<div class = "teaching">
+
+<!-- Recent courses -->
+<h2 class = "commonHeader">Recent Courses (Since 2012)</h2>
+<ul>
+    <% data.teaching.recentClasses.each do |element| %>
+        <li>
+            <%= element %>
+        </li>
+    <% end %>
+</ul>
+
+<!-- Old courses -->
+<h2 class = "commonHeader">Older Courses (Before 2012)</h2>
+<ul>
+    <% data.teaching.olderClasses.each do |element| %>
+        <li>
+            <%= element %>
+        </li>
+    <% end %>
+</ul>
+</div>
